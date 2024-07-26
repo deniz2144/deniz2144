@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Deniz ÜNLÜ</h1>
 <h3 align="center">A passionate developer with a keen interest in Machine Learning and Deep Learning(computer vision)</h3>
