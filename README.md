@@ -1,7 +1,14 @@
 
 
-<h1 align="center">Hi 👋, I'm Deniz ÜNLÜ</h1>
-<h3 align="center">A passionate developer with a keen interest in Machine Learning and Deep Learning(computer vision)</h3>
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">I'm Deniz ÜNLÜ, a passionate developer with a keen interest in Machine Learning and Deep Learning (Computer Vision). My journey in the tech world has been driven by curiosity and a desire to create innovative solutions that can make a real impact.
+
+🔭 Currently Working On
+Object Detection and Recognition: Implementing advanced algorithms for detecting and recognizing objects in images and videos.
+Computer Vision Projects: Developing and fine-tuning models for various computer vision tasks, such as image segmentation and classification.
+🌱 Learning & Exploring
+Deep Learning Frameworks: Enhancing my skills in TensorFlow and PyTorch to build and deploy more efficient models.
+Algorithm Optimization: Exploring ways to optimize machine learning algorithms for better performance and accuracy.</h3>
 
 <p align="left">
 </p>
