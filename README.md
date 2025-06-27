@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'm Deniz ÜNLÜ, a passionate developer with a keen interest in Machine Learning and Deep Learning (Computer Vision). My journey in the tech world has been driven by curiosity and a desire to create innovative solutions that can make a real impact.</h3>
+<h3 align="center">A passionate developer with a keen interest in Machine Learning and Deep Learning (Computer Vision). My journey in the tech world has been driven by curiosity and a desire to create innovative solutions that can make a real impact.</h3>
 
 <h3 align="left">🔭 Currently Working On</h3>
 <ul>
